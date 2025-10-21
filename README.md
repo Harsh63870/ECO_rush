@@ -34,6 +34,46 @@ The app follows a structured flow for user interaction and system architecture.
 ![Flowchart](https://github.com/Harsh63870/ECO_rush/raw/main/images/Screenshot%202025-10-20%20114956.png)
 
 ---
+## 🔐 Login Page
+![Login](https://github.com/Harsh63870/ECO_rush/raw/main/images/login.png)
+
+---
+
+## 📝 Register Page
+![Register](https://github.com/Harsh63870/ECO_rush/raw/main/images/register.png)
+
+---
+
+## 🏠 Main Page
+![Main](https://github.com/Harsh63870/ECO_rush/raw/main/images/main.png)
+
+---
+
+## 🐾 Endangered Species Section
+![Endangered Species](https://github.com/Harsh63870/ECO_rush/raw/main/images/endangered_species.png)
+
+---
+
+## ❓ Quiz Section
+![Quiz Section](https://github.com/Harsh63870/ECO_rush/raw/main/images/quiz_section.png)
+
+---
+
+## 🎮 Game Section
+![Game Section](https://github.com/Harsh63870/ECO_rush/raw/main/images/game_section.png)
+
+---
+
+## 🕹️ Game Screens
+### Game Screen 1
+![Game 1](https://github.com/Harsh63870/ECO_rush/raw/main/images/game1.png)
+
+### Game Screen 2
+![Game 2](https://github.com/Harsh63870/ECO_rush/raw/main/images/game2.png)
+
+### Game Screen 3
+![Game 3](https://github.com/Harsh63870/ECO_rush/raw/main/images/game3.png)
+
 
 ## 🚀 Getting Started
 
