@@ -27,52 +27,61 @@ Eco Rush aims to:
 
 ---
 
-
 ## 🔄 Flow Chart
 
-The app follows a structured flow for user interaction and system architecture. 
-![Flowchart](https://github.com/Harsh63870/ECO_rush/raw/main/images/Screenshot%202025-10-20%20114956.png)
+The app follows a structured flow for user interaction and system architecture.  
 
----
+<img src="https://github.com/Harsh63870/ECO_rush/raw/main/images/Screenshot%202025-10-20%20114956.png" alt="Flowchart" width="500"/>
+
 ---
 
 ## 🔐 Login Page
-![Login](https://github.com/Harsh63870/ECO_rush/raw/main/images/WhatsApp%20Image%202025-10-21%20at%2011.07.54_2f0d1fb6.jpg)
+
+<img src="https://github.com/Harsh63870/ECO_rush/raw/main/images/WhatsApp%20Image%202025-10-21%20at%2011.07.54_2f0d1fb6.jpg" alt="Login" width="400"/>
 
 ---
 
 ## 📝 Register Page
-![Register](https://github.com/Harsh63870/ECO_rush/raw/main/images/WhatsApp%20Image%202025-10-21%20at%2011.07.54_721fe0ab.jpg)
+
+<img src="https://github.com/Harsh63870/ECO_rush/raw/main/images/WhatsApp%20Image%202025-10-21%20at%2011.07.54_721fe0ab.jpg" alt="Register" width="400"/>
 
 ---
 
 ## 🏠 Main Page
-![Main](https://github.com/Harsh63870/ECO_rush/raw/main/images/WhatsApp%20Image%202025-10-21%20at%2011.07.55_1e89cde8.jpg)
+
+<img src="https://github.com/Harsh63870/ECO_rush/raw/main/images/WhatsApp%20Image%202025-10-21%20at%2011.07.55_1e89cde8.jpg" alt="Main Page" width="400"/>
 
 ---
 
 ## 🐾 Endangered Species Section
-![Endangered Species](https://github.com/Harsh63870/ECO_rush/raw/main/images/WhatsApp%20Image%202025-10-21%20at%2011.07.55_d6d8b599.jpg)
+
+<img src="https://github.com/Harsh63870/ECO_rush/raw/main/images/WhatsApp%20Image%202025-10-21%20at%2011.07.55_d6d8b599.jpg" alt="Endangered Species" width="400"/>
 
 ---
 
 ## ❓ Quiz Section
-![Quiz Section](https://github.com/Harsh63870/ECO_rush/raw/main/images/WhatsApp%20Image%202025-10-21%20at%2011.07.56_180f1fe2.jpg)
+
+<img src="https://github.com/Harsh63870/ECO_rush/raw/main/images/WhatsApp%20Image%202025-10-21%20at%2011.07.56_180f1fe2.jpg" alt="Quiz Section" width="400"/>
 
 ---
 
 ## 🎮 Game Section
-![Game Section](https://github.com/Harsh63870/ECO_rush/raw/main/images/WhatsApp%20Image%202025-10-21%20at%2011.07.56_2ec0cc88.jpg)
+
+<img src="https://github.com/Harsh63870/ECO_rush/raw/main/images/WhatsApp%20Image%202025-10-21%20at%2011.07.56_2ec0cc88.jpg" alt="Game Section" width="400"/>
 
 ---
 
 ## 🕹️ Game Screens
 
 ### Game Screen 1
-![Game 1](https://github.com/Harsh63870/ECO_rush/raw/main/images/WhatsApp%20Image%202025-10-21%20at%2011.07.56_68f26c03.jpg)
 
-### Game Scre
+<img src="https://github.com/Harsh63870/ECO_rush/raw/main/images/WhatsApp%20Image%202025-10-21%20at%2011.07.56_68f26c03.jpg" alt="Game Screen 1" width="400"/>
 
+### Game Screen 2
+
+<img src="https://github.com/Harsh63870/ECO_rush/raw/main/images/WhatsApp%20Image%202025-10-21%20at%2011.07.56_2ec0cc88.jpg" alt="Game Screen 2" width="400"/>
+
+---
 
 ## 🚀 Getting Started
 
