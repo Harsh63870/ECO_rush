@@ -31,7 +31,8 @@ Eco Rush aims to:
 ## 🔄 Flow Chart
 
 The app follows a structured flow for user interaction and system architecture. 
-![Flowchart] (https://github.com/Harsh63870/ECO_rush/blob/main/images/Screenshot%202025-10-20%20114956.png)
+![Flowchart](https://github.com/Harsh63870/ECO_rush/raw/main/images/Screenshot%202025-10-20%20114956.png)
+
 ---
 
 ## 🚀 Getting Started
